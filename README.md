@@ -13,7 +13,7 @@ The following projects are included in this repository:
 ## Project List
 
 1. **VowelAge** - A program that processes user input and performs a simple age and vowel count operation.
-2. **AlarmClock** - A basic clock simulation.
+2. **AlarmClock** - A basic alarm clock simulation.
 3. **AnimalFactory** - Demonstrates a factory design pattern with animals.
 4. **BookRating** - A program that handles book ratings.
 5. **ShopInventory** - A simple inventory management system.
@@ -22,18 +22,18 @@ The following projects are included in this repository:
 ## Technologies Used
 
 - **Java** (Core Java, OOP, Collections, Streams)
-- **IDE**: IntelliJ IDEA, Eclipse
+- **IDE**: VS Code
 - **Version Control**: Git/GitHub
 
 ## How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Java-Projects-DCU.git
+   git clone https://github.com/yourusername/Java_Files_DCU.git
 
 2. Navigate to project directory:
    ```bash
-   cd Java-Projects-DCU
+   cd Java_Files_DCU
 
 3. Compile and run the Java files:
    ```bash
