@@ -30,14 +30,8 @@ The following projects are included in this repository:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Java-Projects-DCU.git
-  
-2. Navigate to the project directory:
-  ```bash
-  cd Java-Projects-DCU
 
-3. Compile and run the Java files:
-  ```bash
-  javac FileName.java
-  java FileName
+cd Java-Projects-DCU
 
-If you use an IDE (e.g., IntelliJ or Eclipse), simply import the project and run the Java files directly from there.
+javac FileName.java
+java FileName
