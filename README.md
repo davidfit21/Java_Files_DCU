@@ -1,7 +1,5 @@
 ## Projects Overview
 
-The following projects are included in this repository:
-
 - **Various OOP Projects**: Classes, objects, inheritance, and polymorphism.
 - **Factory Patterns & Data Structures**: Common design patterns and custom data structures implemented in Java.
 - **Tasks & Algorithms**: Searching, sorting, basic problem-solving in Java.
