@@ -1,7 +1,3 @@
-# Java Files:
-
-This repository contains a collection of Java projects completed.
-
 ## Projects Overview
 
 The following projects are included in this repository:
